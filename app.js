@@ -7,6 +7,6 @@
     angular.module('TNL',['ngMaterial'])
         .controller('AppCtrl', ['$scope', function($scope){
 
-        }]);
+        }])
 
 })();
